@@ -115,11 +115,16 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 
 ---
 ### 📐 Mathematics & Theory
+![Math](https://img.shields.io/badge/Discrete_Math-green)
+![Calculus](https://img.shields.io/badge/Calculus-blue)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-purple)
 
-- Solid foundation in Discrete Mathematics, including logic, sets, relations, functions, and graph theory — essential for algorithm design and cybersecurity concepts.
+- Solid foundation in Discrete Mathematics, including logic, sets, relations, functions, and graph theory.
 - Competent in Calculus and mathematical modeling to support analytical thinking and problem solving.
+- Solid understanding of Linear Algebra concepts such as vectors, matrices, and linear transformations.
 - Exposure to Simulation and Modelling techniques applied in systems engineering and software development.
 - Understanding of theoretical computer science principles underpinning programming, databases, and networking.
+
 
 
 ---
