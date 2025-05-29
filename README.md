@@ -109,7 +109,7 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 
 
 ### 📁 Project & Research
-- **Final-Year IT Capstone Project:** Led a comprehensive software development project involving system design, implementation, and testing, applying principles of software engineering and project management.
+- **Final-Year IT Capstone Project (Library Management System):** Led a comprehensive software development project involving system design, implementation, and testing, applying principles of software engineering and project management.
 - Gained hands-on experience with Agile methodologies and collaborative tools during coursework and team projects.
 - Familiar with project lifecycle management, documentation, and technical reporting.
 
