@@ -148,7 +148,6 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tebello-mbhele)  
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tibimbhele@gmail.com)
 
 ---
 
