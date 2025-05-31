@@ -132,8 +132,24 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 - Understanding of theoretical computer science principles underpinning programming, databases, and networking.
 
 
+---
+### 🛠️ Tools & Platforms
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat&logo=hackthebox&logoColor=9FEF00)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- Hands-on experience with **TryHackMe** and **Hack The Box** platforms for offensive and defensive security training.
+- Comfortable with **VMware** and **VirtualBox** for lab-based simulations and OS virtualization.
+- Use of tools like **Wireshark** for packet analysis.
+- Familiar with **Git/GitHub** for version control and technical documentation.
 
 ---
+
 
 ## 📜 Certifications
 
