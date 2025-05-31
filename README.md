@@ -64,6 +64,11 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 #### 🖥️ Computer & Server Architecture
 ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-4A90E2?style=flat&logo=processor&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=gnuemacs&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-0071C5?style=flat&logo=intel&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=flat&logo=amd&logoColor=white)
+![x86_64](https://img.shields.io/badge/Architecture-x86__64-blue)
+![BIOS](https://img.shields.io/badge/Firmware-BIOS/UEFI-lightgrey)
+
 
 - Understanding of fundamental computer architecture concepts including CPU, memory hierarchy, input/output systems, and storage technologies.
 - Basic knowledge of **x86 assembly language**, including registers, instruction sets, and memory addressing — useful for understanding low-level software behavior and security.
