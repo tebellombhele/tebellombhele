@@ -36,6 +36,7 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 - Familiar with setup, configuration, and basic administration of Windows and Linux-based systems (Ubuntu).
 - Exposure to virtualization tools, file systems, basic shell scripting, and system troubleshooting.
