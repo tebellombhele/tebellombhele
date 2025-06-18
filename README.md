@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on cybersecurity, cloud, and compliance. Currently working on launching **SecureByte**, a cybersecurity SaaS startup focused on simplifying governance and risk assessments for SMEs in South Africa.
+I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on cybersecurity, cloud, and compliance. Currently working on launching **SecureByte**, a cybersecurity  startup focused on simplifying governance and risk assessments for SMEs in South Africa.
 ---
 
 ## 🛠️ Technical Skills
