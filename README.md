@@ -22,11 +22,34 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-- Proficient in multiple programming languages including Python, Java, C++, and VB.NET, with experience in developing desktop, web, and mobile applications.
+- Proficient in multiple programming languages including Python, Java, C++, VB.NET, TypeScript, and JavaScript for full-stack development, with experience in developing desktop, web, and mobile applications.
 - Skilled in frontend web technologies (HTML5, CSS3, JavaScript) to create responsive, user-friendly interfaces.
 - Experienced in Android application development using Java and foundational software engineering principles such as object-oriented programming, version control, and testing.
 - Familiar with scripting, automation, and data analysis using Python, alongside libraries and frameworks to support software development.
+  Proficient in Python, Java, .
+- Experience building modern frontend applications with **React**, **Next.js**, and **Tailwind CSS**.
+- Skilled in web API development, RESTful service integration, and dynamic web apps.
+- Comfortable with version control, Agile workflows, CI/CD basics, and API-first design principles.
+
+---
+
+### ⚡ Automation, APIs & Tool Integration
+
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![Pipedream](https://img.shields.io/badge/Pipedream-1A1A1A?style=flat&logo=pipedream&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6228D7?style=flat&logo=make&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-4B8BBE?style=flat)
+![Integration](https://img.shields.io/badge/API_Integration-239120?style=flat)
+
+- Building scalable automation pipelines using **Zapier**, **Pipedream**, and **Make.com**.
+- Experience developing and consuming REST APIs and integrating SaaS tools (e.g., Notion, Tally, Airtable).
+- Using **OpenAI API** (GPT-4, embeddings, assistants) for automation, document parsing, and intelligent summaries.
+- Familiar with **Cursor AI** as an experimental AI IDE for full-stack and automation projects.
 
 ---
 
@@ -142,11 +165,19 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-302F2F?style=flat&logo=cursor&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Tally](https://img.shields.io/badge/Tally.so-2E2B2B?style=flat&logo=data&logoColor=white)
+![Carrd](https://img.shields.io/badge/Carrd-000000?style=flat&logo=circle&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![PDFMonkey](https://img.shields.io/badge/PDFMonkey-7A1E96?style=flat)
 
 - Hands-on experience with **TryHackMe** and **Hack The Box** platforms for offensive and defensive security training.
 - Comfortable with **VMware** and **VirtualBox** for lab-based simulations and OS virtualization.
 - Use of tools like **Wireshark** for packet analysis.
 - Familiar with **Git/GitHub** for version control and technical documentation.
+- Leveraging modern automation platforms and low-code toolchains to streamline business workflows and MVP development — including form intake, scoring logic, API-driven document generation, and client dashboards.
+- Currently exploring AI-powered dev tools like Cursor to experiment with intelligent code assistance and workflow acceleration.
 
 ---
 
