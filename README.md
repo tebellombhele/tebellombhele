@@ -190,7 +190,7 @@ I'm a BSc IT graduate specializing in Systems Engineering with a strong focus on
 | ![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity_Analyst-1BA0D7?style=flat&logo=cisco&logoColor=white) | Junior Cybersecurity Analyst, Intro to Cybersecurity, Ethical Hacker |
 | ![Fortinet](https://img.shields.io/badge/Fortinet-NSE_1_&_2-E1000F?style=flat) | NSE 1, NSE 2, Fundamentals of Cybersecurity |
 | ![IBM](https://img.shields.io/badge/IBM-Cybersecurity,_AI,_Design_Thinking-054ADA?style=flat&logo=ibm&logoColor=white) | Cybersecurity Fundamentals, Enterprise Design Thinking, AI |
-| ![ISC2](https://img.shields.io/badge/ISC2-Candidate_(CC_In_Progress)-00A489?style=flat) | Certified in Cybersecurity – In Progress |
+| ![ISC2](https://img.shields.io/badge/ISC2-Candidate_(CC)-00A489?style=flat) | Certified in Cybersecurity |
 | ![SAP](https://img.shields.io/badge/SAP-Cybersecurity_Internship_(Forage)-0FAAFF?style=flat&logo=sap&logoColor=white) | Cybersecurity Engineering Virtual Internship |
 | ![Datacom](https://img.shields.io/badge/Datacom-Cybersecurity_Job_Simulation_(Forage)-222222?style=flat) | Cybersecurity Job Simulation |
 | ![Skillsoft](https://img.shields.io/badge/Skillsoft-Security_Analyst_to_Architect-E60028?style=flat) | Security Analyst to Architect, Vodafone Learning Journey |
